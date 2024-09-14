@@ -1,4 +1,4 @@
-# Udacity Data Analyst Nanodegree- Wrangling & Analyzing Twitter Data
+# Udacity Data Analyst Nanodegree- Wrangling & Analyzing X (Twitter) Data
 
 This repository contains the files for the P4. Wrangling & Analyzing Twitter Data Analysis
 
